@@ -1,17 +1,10 @@
-# Django Student Management System (beta)
-This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
-Feel free to make changes based on your requirements.
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-I've created this project while learnging Django and followed tutorial series from **SuperCoders**
-
-And if you like this project then ADD a STAR ⭐️  to this project 👆
+# Django Student Grade Management System (beta)
+This is a Simple Student Grade Management System Developed  using Python (Django) and SQLite.
 
 ## Features of this Project
 
 ### A. Admin Users Can
-1. See Overall Summary Charts of Stuudents Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
+1. See Overall Summary Charts of Students Performance, Staffs Perfomances, Courses, Subjects, Leave, etc.
 2. Manage Staffs (Add, Update and Delete)
 3. Manage Students (Add, Update and Delete)
 4. Manage Course (Add, Update and Delete)
@@ -20,6 +13,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 7. View Student Attendance
 8. Review and Reply Student/Staff Feedback
 9. Review (Approve/Reject) Student/Staff Leave
+   ![image](https://github.com/thanmaya1/team3011/assets/112673461/025123fc-d417-49f0-9b78-d8fbe10150a6)
+
 
 ### B. Staff/Teachers Can
 1. See the Overall Summary Charts related to their students, their subjects, leave status, etc.
@@ -27,6 +22,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 3. Add/Update Result
 4. Apply for Leave
 5. Send Feedback to HOD
+   ![image](https://github.com/thanmaya1/team3011/assets/112673461/c3b03279-2319-4caa-8599-6384fd72448b)
+
 
 ### C. Students Can
 1. See the Overall Summary Charts related to their attendance, their subjects, leave status, etc.
@@ -34,21 +31,12 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 3. View Result
 4. Apply for Leave
 5. Send Feedback to HOD
+![image](https://github.com/thanmaya1/team3011/assets/112673461/f168ea4e-797c-464f-88b3-4e2642ce737f)
 
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
+### Project By:
+2200032691
+2200080082
+2200080047
 
 ## How to Install and Run this project?
 
@@ -56,7 +44,7 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 1. Install Git Version Control
 [ https://git-scm.com/ ]
 
-2. Install Python Latest Version
+2. Install Python Latest Version and Django
 [ https://www.python.org/downloads/ ]
 
 3. Install Pip (Package Manager)
