@@ -146,7 +146,7 @@ Password: student
 
 
 
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
+## For  Projects Enquiry
+1. Email - 2200032691@kluniversity.in
+2. Phone - 7799036482
 
